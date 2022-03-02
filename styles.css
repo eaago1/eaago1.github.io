@@ -1,0 +1,24 @@
+body {
+  background-color: #621940;
+}
+div{
+  margin-left: 100px;
+  margin-right: 100px;
+}
+h1 {
+  font-family: 'Trebuchet MS', sans-serif;
+  text-align: center;
+  color: #ffb997;
+}
+h2 {
+  font-family: 'Trebuchet MS', sans-serif;
+  color: #ffb997;
+}
+p {
+  text-indent: 30px;
+  font-family: 'Trebuchet MS', sans-serif;
+  color: white;
+}
+hr {
+  border: 1px solid #f67e7d;
+}
